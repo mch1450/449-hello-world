@@ -1,4 +1,9 @@
 /* Add screen styles below */
 body{
-    background-color: #ccc;
+    background-color: #fff;
+    font-family: Helvetica, sans-serif;
+}
+
+img{
+    width: 100%;
 }
